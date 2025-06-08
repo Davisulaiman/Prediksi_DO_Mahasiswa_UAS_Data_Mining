@@ -419,21 +419,7 @@ UAS_DATA_MINING/
 │   └── fitur_model.pkl               # Feature list for consistency
 │
 └── Dashboard_Implementation/           # Production deployment
-    ├── app.py                         # Streamlit/Flask application
-    ├── requirements.txt               # Dependencies
-    ├── models/                        # Model files
-    ├── templates/                     # HTML templates
-    ├── static/                        # CSS, JS, images
-    │   ├── css/                      
-    │   ├── js/                       
-    │   └── images/                   
-    │       ├── analysis/             # EDA visualizations
-    │       └── evaluation/           # Model performance charts
-    └── utils/                        # Helper functions
-        ├── data_processor.py         # Preprocessing utilities
-        ├── model_predictor.py        # Prediction pipeline
-        └── visualization.py          # Chart generators
-```
+
 
 ---
 
