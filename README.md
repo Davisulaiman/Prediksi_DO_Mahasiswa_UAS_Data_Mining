@@ -1,4 +1,4 @@
-# Sistem Prediksi Dropout Mahasiswa Teknik Informatika
+# Sistem Prediksi Dropout Mahasiswa
 **Implementasi Data Mining untuk Early Warning System Akademik**
 
 ## Anggota Kelompok
