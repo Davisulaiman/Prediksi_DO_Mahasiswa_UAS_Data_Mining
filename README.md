@@ -49,7 +49,9 @@ Sistem ini mengimplementasikan ensemble learning untuk mengidentifikasi mahasisw
 **Cerita Pemilihan:**
 Seperti seorang dokter yang berkonsultasi dengan panel ahli sebelum diagnosis, Random Forest mengombinasikan "pendapat" dari 100 decision tree untuk menghasilkan prediksi yang akurat. Setiap tree memberikan "suara" berdasarkan subset data yang berbeda, lalu mayoritas suara menentukan hasil akhir.
 
-**💡 Gambar: Diagram Random Forest Architecture** *(Tempat ideal untuk gambar ilustrasi Random Forest dengan multiple decision trees)*
+![Architecture](assets/random_forest_architecture.png)
+
+**Gambar: Diagram Random Forest Architecture** 
 
 **Justifikasi Teknis:**
 
@@ -61,7 +63,9 @@ Seperti seorang dokter yang berkonsultasi dengan panel ahli sebelum diagnosis, R
 
 **B. Perbandingan dengan Algoritma Lain:**
 
-**📊 Gambar: Bar Chart Model Comparison** *(Visualisasi perbandingan akurasi 6 algoritma)*
+![model_comparasion](assets/model_comparasion.png)
+
+**Gambar: Model Comparison** 
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 |-------|----------|-----------|---------|----------|
@@ -120,7 +124,7 @@ Program Studi Teknik Informatika menghadapi tantangan dropout rate yang tinggi. 
 
 ![Data_Understanding](assets/data_understanding.png)
 
-** Gambar: Dataset Overview Infographic** 
+**Gambar: Dataset Overview Infographic** 
 
 ```python
 # Data Overview
@@ -141,7 +145,9 @@ dataset_info = {
 
 **Exploratory Data Analysis:**
 
-**📈 Gambar: Correlation Heatmap** *(Heatmap menampilkan korelasi antar fitur dengan color coding)*
+![correlation_matrix](assets/correlation_matrix.png)
+
+**Gambar: Correlation Heatmap** 
 
 ```python
 # Correlation Analysis
@@ -151,7 +157,9 @@ sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', fmt=".2f")
 plt.title("Feature Correlation Matrix")
 ```
 
-**📊 Gambar: Target Distribution Chart** *(Bar chart menampilkan distribusi 47.4% vs 52.6%)*
+![Target_Distribution](assets/status_rate.png)
+
+**Gambar: Target Distribution Chart** 
 
 ```python
 # Target Distribution Analysis
