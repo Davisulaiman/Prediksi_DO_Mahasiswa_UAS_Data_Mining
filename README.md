@@ -118,7 +118,9 @@ Program Studi Teknik Informatika menghadapi tantangan dropout rate yang tinggi. 
 
 **Karakteristik Dataset:**
 
-**🗂️ Gambar: Dataset Overview Infographic** *(Visualisasi dataset dengan 285 records, 25 features, pie chart distribusi target)*
+![Data_Understanding](assets/data_understanding.png)
+
+** Gambar: Dataset Overview Infographic** 
 
 ```python
 # Data Overview
