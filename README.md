@@ -15,6 +15,10 @@
 - **Username:** admin
 - **Password:** admin123
 
+![tampilan_dashboard](assets/tampilan_dashboard.png)
+
+**Gambar: tampilan_dashboard** 
+
 ---
 
 ## Daftar Isi
