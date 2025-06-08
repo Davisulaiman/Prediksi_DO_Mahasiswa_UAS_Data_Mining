@@ -37,12 +37,12 @@
 ## Overview Sistem
 
 ### Cerita Sistem
-Program studi informatika mendapatkan sebuah tantangan dari rektor akademik, yang dimana seorang rektor ini merasa cemas melihat mahasiswa berprestasi tiba-tiba mengalami penurunan akademik drastis. "Seandainya ada sistem yang bisa memperingatkan sejak dini sebelum mahasiswa benar-benar dropout," program studi informatika berpikir sambil melihat data 285 mahasiswa TI di mana 150 mahasiswa (52.6%) teridentifikasi berisiko dropout.
+Program studi informatika mendapatkan sebuah tantangan dari rektor akademik, yang dimana seorang rektor ini merasa cemas melihat mahasiswa berprestasi tiba-tiba mengalami penurunan akademik drastis. "Seandainya ada sistem yang bisa memperingatkan sejak dini sebelum mahasiswa benar-benar dropout," Program studi informatika berpikir bagaimana membuat sistem tersebut sambil melihat data 285 mahasiswa TI di mana 150 mahasiswa (52.6%) teridentifikasi berisiko dropout.
 
 Maka lahirlah sistem prediksi dropout berbasis machine learning ini. Dengan menganalisis 22 variabel komprehensif mulai dari demografi, performa akademik, pola kehadiran, hingga aktivitas digital learning, sistem dapat memberikan early warning dengan akurasi 100% menggunakan Random Forest.
 
 **Penjelasan Teknis:**
-Sistem ini mengimplementasikan ensemble learning untuk mengidentifikasi mahasiswa berisiko dropout berdasarkan data historis 285 mahasiswa TI angkatan 2022-2024. Dengan pipeline CRISP-DM yang komprehensif, sistem mampu melakukan prediksi real-time dan memberikan rekomendasi intervensi yang dipersonalisasi untuk setiap mahasiswa.
+Sistem ini mengimplementasikan ensemble learning untuk mengidentifikasi mahasiswa berisiko dropout berdasarkan data historis 285 mahasiswa angkatan 2022-2024. Dengan pipeline CRISP-DM yang komprehensif, sistem mampu melakukan prediksi real-time dan memberikan rekomendasi intervensi yang dipersonalisasi untuk setiap mahasiswa.
 
 ---
 
@@ -491,7 +491,7 @@ fitur = joblib.load('./Menyimpan_Model/fitur_model.pkl')
 
 # === INTERACTIVE PREDICTION SYSTEM ===
 def predict_student_dropout():
-    print("=== SISTEM PREDIKSI DROPOUT MAHASISWA TI ===\n")
+    print("=== SISTEM PREDIKSI DROPOUT MAHASISWA ===\n")
     
     # Data collection
     student_data = {}
