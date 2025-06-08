@@ -1,0 +1,286 @@
+npm,nama,angkatan,semester_saat_ini,jenis_kelamin,usia,penghasilan_keluarga,beasiswa,status_pekerjaan,asal_daerah,jenis_sma,skor_masuk,ipk_rata_rata,trend_ipk,kehadiran_rata_rata,konsistensi_kehadiran,total_jam_lms,rata_jam_lms_per_semester,total_mengulang,skor_risiko,kategori_risiko,status_saat_ini,flag_peringatan_dini,rekomendasi_intervensi
+G1A022001,DAVI SULAIMAN,2022,6,L,20,Menengah,1,Tidak Bekerja,Dalam Kota,SMA Swasta,80.0,3.22,0.05,83,9.0,738,123.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A022002,ATTIYA DIANTI FADLI,2022,6,P,21,Tinggi,0,Tidak Bekerja,Dalam Kota,SMA Swasta,73.6,3.33,0.4,85,9.7,540,90.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A022003,AZILZAH NUR ZANAFA,2022,6,P,23,Rendah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,81.5,3.36,0.02,62,17.9,360,60.0,4,5,Tinggi,Aktif,1,"Bantuan Finansial, Konseling Motivasi"
+G1A022004,AKRAM ANALIS,2022,6,L,22,Rendah,1,Part-time,Luar Kota,SMA Negeri,90.2,3.78,-0.01,91,8.0,774,129.0,1,2,Sedang,Aktif,0,Monitoring Rutin
+G1A022005,DELVI NUR ROPIQ SITEPU,2022,7,P,22,Tinggi,0,Tidak Bekerja,Luar Kota,SMA Swasta,72.7,2.97,0.23,97,4.0,889,127.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A022006,MERLY YUNI PURNAMA,2022,6,L,22,Menengah,1,Tidak Bekerja,Luar Provinsi,SMA Swasta,72.7,2.98,0.4,84,11.3,1056,176.0,2,1,Rendah,Aktif,1,Monitoring Rutin
+G1A022007,AYU ANGGRAINI,2022,6,L,22,Menengah,0,Tidak Bekerja,Luar Provinsi,SMA Negeri,90.8,3.19,-0.18,95,3.3,1194,199.0,2,1,Rendah,Aktif,1,Monitoring Rutin
+G1A022008,MUHAMMAD ROZAGI,2022,7,L,21,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,82.7,3.31,-0.11,80,6.4,1330,190.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A022009,LOLA YASHINTA DEWI,2022,6,P,20,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Swasta,70.3,2.8,0.28,95,8.6,852,142.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A022010,Julia Mayang Sari,2022,6,P,22,Rendah,1,Part-time,Dalam Kota,SMA Negeri,80.4,3.3,0.01,79,8.2,798,133.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A022011,ABDI AGUNG KURNIAWAN,2022,7,L,22,Rendah,0,Tidak Bekerja,Dalam Kota,SMA Swasta,70.4,2.72,0.09,77,11.6,609,87.0,1,4,Tinggi,Aktif,0,Bantuan Finansial
+G1A022012,Keysa Maqfirah,2022,7,L,20,Tinggi,0,Tidak Bekerja,Dalam Kota,SMA Swasta,70.3,2.75,0.01,86,3.6,952,136.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A022013,Beny Esa Pratama,2022,7,P,20,Rendah,0,Part-time,Dalam Kota,SMA Negeri,77.4,2.97,0.19,62,18.4,294,42.0,4,4,Tinggi,Dropout,1,"Bantuan Finansial, Konseling Motivasi"
+G1A022014,TIESYA ANDRIANI RAMADHANTI,2022,7,P,23,Menengah,0,Part-time,Dalam Kota,SMA Swasta,60.0,2.36,0.05,98,7.1,1162,166.0,2,3,Sedang,Aktif,1,Bimbingan Akademik
+G1A022015,RADEN CHARISSA PRIMA OKTAVIA,2022,7,P,20,Rendah,0,Tidak Bekerja,Luar Provinsi,SMA Negeri,60.0,2.36,0.11,57,19.4,434,62.0,5,7,Tinggi,Aktif,1,"Bimbingan Akademik, Bantuan Finansial, Konseling Motivasi"
+G1A022017,RANA QONITAH HELIDA,2022,6,P,22,Menengah,0,Tidak Bekerja,Luar Kota,SMA Swasta,69.4,2.81,0.21,92,6.4,642,107.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A022018,Dimas Fahrozy,2022,7,L,21,Menengah,0,Part-time,Luar Kota,SMA Negeri,64.9,2.86,0.21,82,8.6,560,80.0,0,2,Sedang,Aktif,0,Monitoring Rutin
+G1A022019,KEISYA DERIL OLIVIA,2022,7,P,21,Rendah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,78.1,3.24,0.41,63,17.0,385,55.0,5,4,Tinggi,Aktif,1,"Bantuan Finansial, Konseling Motivasi"
+G1A022020,Atika Oktavianti,2022,6,P,22,Menengah,0,Tidak Bekerja,Dalam Kota,SMK,65.9,2.27,0.11,78,10.6,1062,177.0,2,3,Sedang,Aktif,1,Bimbingan Akademik
+G1A022021,Sophina Shafa Salsabila,2022,7,P,23,Rendah,1,Part-time,Luar Provinsi,SMK,60.9,1.88,-0.72,73,16.0,210,30.0,4,7,Tinggi,Peringatan Akademik,1,"Bimbingan Akademik, Konseling Motivasi"
+G1A022022,Imelda Cyntia,2022,7,P,21,Rendah,1,Tidak Bekerja,Dalam Kota,SMA Swasta,89.7,3.73,0.09,82,4.4,980,140.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A022023,Natasya Salsabilla,2022,6,P,21,Menengah,0,Tidak Bekerja,Luar Kota,SMK,72.7,3.3,0.48,85,3.0,1068,178.0,1,1,Rendah,Aktif,0,Monitoring Rutin
+G1A022024,Evelyn Eunike Aritonang,2022,6,P,20,Rendah,1,Tidak Bekerja,Luar Kota,SMA Negeri,75.7,3.15,0.36,91,10.3,930,155.0,1,2,Sedang,Aktif,0,Monitoring Rutin
+G1A022025,WEKO ABBROR,2022,7,L,21,Menengah,1,Part-time,Dalam Kota,SMA Negeri,60.8,2.49,0.0,93,7.6,770,110.0,2,2,Sedang,Aktif,1,Bimbingan Akademik
+G1A022026,Hikmah Hijrayanti,2022,7,P,23,Menengah,1,Tidak Bekerja,Dalam Kota,SMA Negeri,69.6,2.91,0.19,84,4.2,987,141.0,1,3,Sedang,Aktif,0,Monitoring Rutin
+G1A022027,DIODO ARRAHMAN,2022,7,P,20,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Swasta,76.1,2.68,-0.07,81,10.2,917,131.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A022028,Damianus Christopher Samosir,2022,6,L,20,Rendah,0,Part-time,Dalam Kota,SMA Negeri,63.5,2.46,0.13,79,10.5,282,47.0,3,6,Tinggi,Aktif,1,"Bimbingan Akademik, Bantuan Finansial"
+G1A022029,Arya Mulahernawan,2022,6,L,21,Rendah,1,Tidak Bekerja,Luar Kota,SMA Swasta,78.8,3.3,0.5,86,10.3,534,89.0,0,2,Sedang,Aktif,0,Monitoring Rutin
+G1A022030,Federika Butar Butar,2022,6,P,22,Menengah,0,Part-time,Dalam Kota,SMA Negeri,69.0,2.75,0.21,96,11.5,1062,177.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A022032,Reksi Hendra Pratama,2022,7,L,20,Menengah,1,Tidak Bekerja,Dalam Kota,SMA Negeri,72.1,3.25,0.13,80,5.1,847,121.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A022033,Rafi Afrian Al Haritz,2022,7,L,20,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,69.0,3.12,0.26,80,4.2,1309,187.0,0,2,Sedang,Aktif,0,Monitoring Rutin
+G1A022034,Muhammad Hisbulah Endima Tandjung,2022,7,L,20,Menengah,1,Part-time,Dalam Kota,SMA Swasta,93.5,3.7,0.1,78,4.8,826,118.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A022035,ANISSA RAHMADINA PUTRI,2022,7,P,21,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,74.9,3.53,0.4,79,3.3,1085,155.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A022036,Esa Nirza Zakya Putri,2022,6,P,23,Rendah,0,Tidak Bekerja,Dalam Kota,SMK,64.4,2.12,0.08,72,8.4,168,28.0,2,8,Tinggi,Aktif,1,"Bimbingan Akademik, Bantuan Finansial, Konseling Motivasi"
+G1A022037,Fahim Ahmad Saputra,2022,7,L,21,Menengah,0,Tidak Bekerja,Luar Kota,SMK,83.2,3.3,-0.1,85,7.0,1078,154.0,0,1,Rendah,Aktif,0,Monitoring Rutin
+G1A022038,RESYALIANA ESA PUTRI,2022,6,P,23,Menengah,0,Part-time,Luar Provinsi,SMA Negeri,62.8,2.56,0.18,66,14.9,342,57.0,1,4,Tinggi,Aktif,1,Konseling Motivasi
+G1A022039,DEVA MARLINA,2022,7,P,22,Rendah,0,Part-time,Luar Provinsi,SMK,77.1,2.91,-0.3,56,15.0,252,36.0,1,6,Tinggi,Aktif,1,"Bantuan Finansial, Konseling Motivasi"
+G1A022040,SINTA EZRA WATI GULO,2022,7,P,23,Rendah,1,Tidak Bekerja,Luar Provinsi,SMA Negeri,60.0,2.15,0.45,66,9.1,490,70.0,1,6,Tinggi,Aktif,1,"Bimbingan Akademik, Konseling Motivasi"
+G1A022041,HANIF ABDULLAH ZUHDI,2022,6,L,23,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Swasta,61.7,2.62,0.24,79,11.5,708,118.0,1,3,Sedang,Aktif,0,Monitoring Rutin
+G1A022042,ULFA STEVI JULIANA,2022,6,P,20,Rendah,1,Tidak Bekerja,Dalam Kota,SMK,77.0,3.3,0.46,89,3.0,1002,167.0,1,3,Sedang,Aktif,0,Monitoring Rutin
+G1A022043,ZONI ARYANTONI ALBAB,2022,7,L,20,Menengah,1,Tidak Bekerja,Luar Provinsi,SMA Negeri,82.4,3.23,-0.09,78,4.8,686,98.0,0,1,Rendah,Aktif,0,Monitoring Rutin
+G1A022044,ANISSA SHANNIYAH APRILIA,2022,7,P,21,Rendah,0,Tidak Bekerja,Dalam Kota,SMA Swasta,76.7,2.31,-0.23,64,13.5,161,23.0,1,4,Tinggi,Aktif,1,"Bimbingan Akademik, Bantuan Finansial, Konseling Motivasi"
+G1A022045,DAVID THIMOTIUS RARUNG,2022,7,L,23,Menengah,0,Part-time,Dalam Kota,SMA Negeri,73.8,3.03,0.36,84,6.3,1351,193.0,0,1,Rendah,Aktif,0,Monitoring Rutin
+G1A022046,ZAHRAH HAFIZAH FAKHRI,2022,7,P,22,Menengah,0,Part-time,Dalam Kota,SMA Negeri,72.0,2.89,0.05,91,10.7,1204,172.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A022047,RIOLAN PRATAMA,2022,7,L,22,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,60.2,2.68,0.57,83,4.7,1239,177.0,1,2,Sedang,Aktif,1,Monitoring Rutin
+G1A022048,NELI AGUSTIN,2022,7,P,22,Rendah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,67.8,2.17,-0.36,76,13.1,679,97.0,4,6,Tinggi,Aktif,1,"Bimbingan Akademik, Bantuan Finansial"
+G1A022049,M. FEBRI ARDIANSYAH,2022,6,P,20,Rendah,1,Part-time,Luar Kota,SMA Negeri,70.4,2.75,-0.03,85,7.0,1116,186.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A022051,Fadlan Dwi Febrio,2022,7,P,20,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,85.6,3.38,-0.02,90,7.2,910,130.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A022052,Torang Four Yones M,2022,7,L,21,Rendah,1,Tidak Bekerja,Dalam Kota,SMA Negeri,78.4,3.07,0.34,92,8.8,1344,192.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A022053,Fiter Ramadansyah,2022,7,L,22,Rendah,1,Tidak Bekerja,Dalam Kota,SMA Negeri,60.0,2.18,-0.05,80,14.9,308,44.0,3,4,Tinggi,Aktif,1,Bimbingan Akademik
+G1A022054,Rizki Ramadani D.,2022,6,L,20,Menengah,0,Part-time,Luar Provinsi,SMA Negeri,78.2,3.03,0.17,88,2.9,996,166.0,1,1,Rendah,Aktif,0,Monitoring Rutin
+G1A022055,Arief Setiawan,2022,7,L,22,Menengah,0,Part-time,Luar Provinsi,SMA Negeri,71.1,2.83,0.5,94,2.9,1155,165.0,1,1,Rendah,Aktif,0,Monitoring Rutin
+G1A022056,Apri Agriansyah,2022,7,L,20,Menengah,1,Tidak Bekerja,Luar Provinsi,SMA Negeri,68.2,2.47,0.14,83,9.2,595,85.0,1,3,Sedang,Aktif,1,Bimbingan Akademik
+G1A022057,Citra Azzahra Al-Fatihah,2022,7,P,21,Tinggi,0,Part-time,Luar Kota,SMA Negeri,81.1,3.52,0.25,86,2.5,987,141.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A022058,Revo Pratama,2022,6,L,20,Rendah,0,Tidak Bekerja,Luar Provinsi,SMA Negeri,85.3,2.78,-0.19,80,9.8,144,24.0,3,5,Tinggi,Aktif,1,Bantuan Finansial
+G1A022059,Muhammad Kevin Rinaldi,2022,7,L,21,Menengah,0,Tidak Bekerja,Luar Provinsi,SMA Negeri,84.3,3.32,0.09,96,4.4,686,98.0,1,1,Rendah,Aktif,0,Monitoring Rutin
+G1A022060,Wahyu Ozorah Manurung,2022,7,P,20,Menengah,1,Tidak Bekerja,Luar Kota,SMA Negeri,66.6,2.94,0.2,98,3.0,1078,154.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A022061,RIDHO HERTA,2022,7,L,21,Rendah,1,Part-time,Dalam Kota,SMA Swasta,71.9,2.8,-0.21,98,3.9,875,125.0,0,2,Sedang,Aktif,0,Monitoring Rutin
+G1A022062,Akbar Agpranata,2022,7,P,22,Rendah,1,Part-time,Luar Kota,SMK,78.3,3.52,0.3,97,9.2,707,101.0,2,3,Sedang,Aktif,1,Monitoring Rutin
+G1A022063,Yebi Depriansyah,2022,7,L,22,Menengah,0,Part-time,Luar Kota,SMA Negeri,84.8,3.6,0.07,89,5.8,1064,152.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A022064,Muhammad Ahdan Hanif,2022,6,L,23,Tinggi,0,Part-time,Luar Kota,SMA Negeri,70.2,2.77,0.06,93,4.0,582,97.0,0,1,Rendah,Aktif,0,Monitoring Rutin
+G1A022065,Revan Averuz Mufid,2022,7,L,21,Tinggi,0,Tidak Bekerja,Luar Kota,SMA Swasta,73.1,3.05,0.34,78,5.6,1071,153.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A022066,Khairul Hafif,2022,7,L,21,Menengah,1,Tidak Bekerja,Luar Provinsi,SMA Swasta,63.9,2.93,0.38,79,10.3,1022,146.0,0,3,Sedang,Aktif,0,Monitoring Rutin
+G1A022067,Daffa Fadhil Apriza,2022,7,L,21,Rendah,0,Tidak Bekerja,Luar Provinsi,SMA Negeri,63.0,2.29,-0.07,55,9.0,651,93.0,3,7,Tinggi,Aktif,1,"Bimbingan Akademik, Bantuan Finansial, Konseling Motivasi"
+G1A022068,Anugrah Herianto,2022,7,L,20,Menengah,0,Tidak Bekerja,Luar Provinsi,SMA Negeri,83.1,3.22,0.12,95,3.1,770,110.0,1,1,Rendah,Aktif,0,Monitoring Rutin
+G1A022069,Rengga Anggarah,2022,6,L,22,Menengah,1,Tidak Bekerja,Luar Provinsi,SMK,88.6,3.94,0.0,92,11.7,642,107.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A022070,Shalaudin Muhammad sah,2022,7,L,20,Rendah,1,Part-time,Luar Kota,SMA Negeri,74.3,3.17,0.17,97,3.2,644,92.0,1,2,Sedang,Aktif,0,Monitoring Rutin
+G1A022071,Ba'im mudrik aziz,2022,7,L,22,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,85.0,3.15,0.16,94,7.3,1190,170.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A022072,yuda reyvandra,2022,7,L,23,Menengah,0,Part-time,Luar Provinsi,SMA Swasta,78.6,3.41,0.46,85,2.3,1183,169.0,0,2,Sedang,Aktif,0,Monitoring Rutin
+G1A022073,Alif Nurhidayat,2022,6,P,20,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,68.5,3.07,0.38,95,5.5,1068,178.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A022074,CARLI MARGARETA,2022,7,P,23,Rendah,1,Tidak Bekerja,Dalam Kota,SMK,78.6,2.88,0.22,64,8.5,210,30.0,3,4,Tinggi,Aktif,1,Konseling Motivasi
+G1A022075,Aisyah Amelia Zarah Juaita,2022,7,P,23,Rendah,0,Tidak Bekerja,Luar Kota,SMA Negeri,90.4,3.49,-0.12,70,13.7,315,45.0,3,5,Tinggi,Aktif,1,"Bantuan Finansial, Konseling Motivasi"
+G1A022076,Pandu Rizki Mulyanto,2022,6,L,20,Menengah,1,Part-time,Luar Provinsi,SMA Negeri,74.6,3.0,0.03,88,4.8,972,162.0,2,1,Rendah,Aktif,1,Monitoring Rutin
+G1A022077,Mezi,2022,7,L,21,Tinggi,0,Tidak Bekerja,Dalam Kota,SMA Negeri,90.6,3.74,0.37,82,6.8,1393,199.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A022078,Kevin Taqwa Abdiansyah,2022,6,P,22,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Swasta,60.0,2.46,0.34,87,5.7,648,108.0,0,2,Sedang,Aktif,1,Bimbingan Akademik
+G1A022079,M Hafidz Ashshidiqi,2022,6,L,23,Rendah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,83.2,3.11,-0.34,71,10.4,528,88.0,2,5,Tinggi,Aktif,1,"Bantuan Finansial, Konseling Motivasi"
+G1A022080,M Satria Halim,2022,7,L,20,Menengah,0,Tidak Bekerja,Luar Provinsi,SMA Negeri,75.9,2.74,-0.22,80,11.9,980,140.0,0,1,Rendah,Aktif,0,Monitoring Rutin
+G1A022081,Saniyyah Zhafirah,2022,7,P,23,Rendah,1,Tidak Bekerja,Luar Kota,SMK,72.0,2.91,-0.08,79,8.3,406,58.0,4,4,Tinggi,Aktif,1,Monitoring Rutin
+G1A022082,Ferdy fitriansyah rowi,2022,7,L,23,Menengah,1,Tidak Bekerja,Dalam Kota,SMK,75.9,3.1,0.03,85,7.4,1232,176.0,0,2,Sedang,Aktif,0,Monitoring Rutin
+G1A022083,Ade irawan,2022,6,L,22,Rendah,0,Tidak Bekerja,Luar Kota,SMA Swasta,60.0,2.1,-0.25,66,19.3,408,68.0,5,6,Tinggi,Aktif,1,"Bimbingan Akademik, Bantuan Finansial, Konseling Motivasi"
+G1A022084,Dian Ardiyanti Saputri,2022,7,P,23,Rendah,1,Part-time,Luar Kota,SMA Swasta,72.8,3.22,0.27,86,5.8,1099,157.0,2,3,Sedang,Aktif,1,Monitoring Rutin
+G1A022085,Rino Alfaridzi Hutomo,2022,6,L,20,Rendah,0,Part-time,Luar Kota,SMA Negeri,78.6,2.95,0.09,79,11.4,474,79.0,5,4,Tinggi,Aktif,1,Bantuan Finansial
+G1A022086,Ahmad Radesta,2022,7,L,22,Menengah,0,Tidak Bekerja,Luar Provinsi,SMA Swasta,89.8,3.31,0.02,95,8.5,1169,167.0,1,1,Rendah,Aktif,0,Monitoring Rutin
+G1A022087,Fanni Ghina Athiyyah,2022,7,P,23,Tinggi,0,Tidak Bekerja,Dalam Kota,SMA Swasta,69.8,2.94,0.46,82,2.1,1008,144.0,1,3,Sedang,Aktif,0,Monitoring Rutin
+G1A022088,Ahmad Zul Zhafran,2022,7,L,20,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,66.9,2.6,0.17,94,4.5,875,125.0,1,2,Sedang,Aktif,1,Monitoring Rutin
+G1A022089,Vigo Ite Anugrahesa,2022,7,P,20,Menengah,0,Tidak Bekerja,Luar Provinsi,SMA Negeri,70.0,2.93,-0.06,81,10.9,1379,197.0,0,1,Rendah,Aktif,0,Monitoring Rutin
+G1A022090,amirah putri nabilah,2022,6,P,21,Tinggi,0,Tidak Bekerja,Dalam Kota,SMK,84.2,3.53,0.3,96,4.4,1116,186.0,1,1,Rendah,Aktif,0,Monitoring Rutin
+G1A022091,Muhammad Firdaus Karela,2022,7,L,23,Menengah,1,Full-time,Luar Kota,SMA Negeri,78.3,2.53,0.08,76,15.0,476,68.0,1,4,Tinggi,Aktif,1,Penyesuaian Jadwal
+G1A022092,Ari Setiawan,2022,7,L,21,Menengah,1,Tidak Bekerja,Luar Kota,SMA Swasta,69.7,2.59,-0.4,97,9.8,1330,190.0,1,2,Sedang,Aktif,0,Monitoring Rutin
+G1A022093,Alfikram Hadi Putra,2022,6,L,22,Menengah,0,Part-time,Luar Kota,SMK,80.1,2.94,-0.26,98,7.0,948,158.0,0,1,Rendah,Aktif,0,Monitoring Rutin
+G1A022094,REYVANO ARYA PULUNGGONO,2022,7,L,20,Rendah,1,Tidak Bekerja,Luar Provinsi,SMA Negeri,76.0,2.98,0.38,88,5.8,1288,184.0,1,3,Sedang,Aktif,0,Monitoring Rutin
+G1A022095,OKI CAHYA PUTRA,2022,7,L,20,Tinggi,0,Full-time,Dalam Kota,SMA Swasta,84.7,3.56,0.01,92,11.9,987,141.0,2,3,Sedang,Aktif,1,Penyesuaian Jadwal
+G1A023001,Aurel Moura Athanafisah,2023,5,P,22,Menengah,0,Tidak Bekerja,Luar Provinsi,SMA Negeri,68.0,2.56,0.16,91,3.1,460,92.0,1,3,Sedang,Aktif,0,Monitoring Rutin
+G1A023002,Bavio Robia Rahmadan,2023,4,P,20,Menengah,0,Part-time,Luar Kota,SMA Negeri,71.7,2.62,-0.09,92,9.8,584,146.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A023003,Pebi Heriansyah,2023,5,L,22,Rendah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,71.1,2.41,0.08,80,12.9,215,43.0,2,4,Tinggi,Aktif,1,"Bimbingan Akademik, Bantuan Finansial"
+G1A023004,Kenia Nurma Feblia,2023,5,P,22,Rendah,0,Tidak Bekerja,Luar Kota,SMA Negeri,60.4,2.01,-0.29,71,19.6,300,60.0,5,6,Tinggi,Aktif,1,"Bimbingan Akademik, Bantuan Finansial, Konseling Motivasi"
+G1A023005,Muhammad Fadli Rahmansyah,2023,5,P,19,Rendah,0,Tidak Bekerja,Luar Provinsi,SMA Swasta,78.0,2.44,-0.27,75,14.4,210,42.0,5,5,Tinggi,Aktif,1,"Bimbingan Akademik, Bantuan Finansial"
+G1A023006,Hesi Desta Lestari,2023,5,P,20,Rendah,0,Tidak Bekerja,Luar Provinsi,SMK,77.6,2.84,-0.11,56,11.3,440,88.0,3,6,Tinggi,Aktif,1,"Bantuan Finansial, Konseling Motivasi"
+G1A023007,Linia Nur Aini,2023,5,P,22,Menengah,1,Tidak Bekerja,Luar Kota,SMA Swasta,75.1,3.22,0.39,92,4.6,950,190.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A023008,Loga Rizal Pratama,2023,5,L,19,Menengah,1,Part-time,Luar Kota,SMA Negeri,72.7,2.87,-0.25,87,4.9,570,114.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A023009,Lidya Feronica,2023,4,P,20,Tinggi,0,Part-time,Luar Provinsi,SMK,60.8,2.6,0.1,68,12.5,116,29.0,1,4,Tinggi,Aktif,1,Konseling Motivasi
+G1A023010,Azzahra Faranisa,2023,5,P,21,Menengah,0,Tidak Bekerja,Luar Provinsi,SMA Swasta,70.8,3.34,0.28,95,7.8,760,152.0,1,1,Rendah,Aktif,0,Monitoring Rutin
+G1A023011,Koreza almukadima,2023,5,L,19,Rendah,0,Part-time,Dalam Kota,SMK,71.6,3.11,0.2,57,12.5,205,41.0,1,5,Tinggi,Aktif,1,"Bantuan Finansial, Konseling Motivasi"
+G1A023012,Diosi Putri Arlita,2023,5,P,20,Menengah,1,Tidak Bekerja,Dalam Kota,SMA Negeri,67.0,2.62,-0.21,81,3.0,635,127.0,1,2,Sedang,Aktif,0,Monitoring Rutin
+G1A023013,LIO KUSNATA,2023,4,L,22,Menengah,0,Tidak Bekerja,Luar Provinsi,SMA Negeri,73.4,2.74,0.14,80,11.0,388,97.0,0,1,Rendah,Aktif,0,Monitoring Rutin
+G1A023014,Intan Oktaviani Presia,2023,5,P,21,Tinggi,0,Tidak Bekerja,Dalam Kota,SMA Negeri,79.0,3.44,0.3,87,8.5,900,180.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A023015,Sallaa Fikriyatul 'Arifah,2023,5,P,22,Rendah,1,Tidak Bekerja,Luar Kota,SMK,93.9,3.81,0.15,86,4.2,990,198.0,0,3,Sedang,Aktif,0,Monitoring Rutin
+G1A023016,Rheby Ersa Monica,2023,5,P,21,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,76.7,3.11,0.07,98,2.7,845,169.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A023017,Hana Syarifah,2023,4,P,19,Rendah,0,Tidak Bekerja,Luar Kota,SMA Negeri,77.6,2.68,-0.21,63,10.0,144,36.0,3,4,Tinggi,Aktif,1,"Bantuan Finansial, Konseling Motivasi"
+G1A023018,Herlita,2023,4,P,19,Rendah,1,Tidak Bekerja,Dalam Kota,SMK,74.3,2.88,0.21,81,4.3,580,145.0,0,3,Sedang,Aktif,0,Monitoring Rutin
+G1A023019,Nadya Alicia Putri,2023,4,P,19,Rendah,1,Tidak Bekerja,Dalam Kota,SMK,60.0,2.24,-0.24,66,9.4,104,26.0,2,5,Tinggi,Aktif,1,"Bimbingan Akademik, Konseling Motivasi"
+G1A023020,Ramadan Mufian,2023,4,L,22,Rendah,1,Tidak Bekerja,Luar Provinsi,SMA Negeri,74.7,2.81,0.18,95,9.6,444,111.0,0,3,Sedang,Aktif,0,Monitoring Rutin
+G1A023021,Ammar Siraj Ananda,2023,4,L,22,Rendah,1,Tidak Bekerja,Luar Kota,SMA Negeri,75.6,3.17,0.32,82,9.1,364,91.0,0,2,Sedang,Aktif,0,Monitoring Rutin
+G1A023022,Adelia Nurazizah Omega Putri,2023,4,P,22,Menengah,0,Full-time,Dalam Kota,SMA Negeri,95.0,3.68,-0.02,88,5.2,456,114.0,0,3,Sedang,Aktif,0,Penyesuaian Jadwal
+G1A023023,Tis Fidiatul Hasanah,2023,4,P,20,Rendah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,73.1,2.62,0.04,77,16.4,100,25.0,2,4,Tinggi,Aktif,1,Bantuan Finansial
+G1A023024,Aditya Saputra,2023,5,L,20,Rendah,1,Tidak Bekerja,Luar Kota,SMA Swasta,78.0,3.18,-0.02,85,3.3,925,185.0,1,2,Sedang,Aktif,0,Monitoring Rutin
+G1A023025,Habib Eddler Marpen,2023,5,L,19,Menengah,0,Part-time,Dalam Kota,SMA Negeri,74.7,3.26,0.16,90,7.0,640,128.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A023026,Carissa Nabilah Putri Rozi,2023,5,P,20,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,63.3,2.72,0.12,85,8.3,910,182.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A023027,Sidik Bagus Firmansyah,2023,4,L,22,Menengah,0,Tidak Bekerja,Luar Kota,SMK,86.4,3.44,0.06,94,5.6,616,154.0,0,1,Rendah,Aktif,0,Monitoring Rutin
+G1A023028,Muhammad Tariq Pratama Buhar,2023,4,L,19,Rendah,1,Tidak Bekerja,Luar Kota,SMA Swasta,82.5,3.51,0.11,89,11.1,332,83.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A023029,Muhammad Zuhri Al kauri,2023,5,L,20,Menengah,1,Full-time,Luar Provinsi,SMA Negeri,82.9,2.64,0.03,65,8.7,190,38.0,5,4,Tinggi,Aktif,1,"Konseling Motivasi, Penyesuaian Jadwal"
+G1A023030,Muhammad Yasser Ghifari Tegar Awally,2023,4,L,19,Menengah,0,Full-time,Dalam Kota,SMK,65.9,2.06,0.02,72,16.3,392,98.0,3,6,Tinggi,Aktif,1,"Bimbingan Akademik, Konseling Motivasi, Penyesuaian Jadwal"
+G1A023031,Jundi Al Farros,2023,4,L,22,Rendah,0,Tidak Bekerja,Luar Kota,SMK,89.0,3.38,-0.1,70,9.7,116,29.0,2,5,Tinggi,Aktif,1,"Bantuan Finansial, Konseling Motivasi"
+G1A023032,Muhammad Hafizh Ario Diffo,2023,5,L,20,Menengah,0,Part-time,Luar Kota,SMA Swasta,61.0,2.28,0.05,91,6.9,640,128.0,1,2,Sedang,Aktif,1,Bimbingan Akademik
+G1A023033,Muhammad Ariqoh Firjatullah,2023,5,L,19,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,80.9,3.12,-0.21,80,5.4,790,158.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A023034,Filya Chiara Amanda,2023,4,P,22,Tinggi,0,Part-time,Dalam Kota,SMA Negeri,95.0,3.63,-0.06,96,7.5,568,142.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A023035,Attar Zaki Al Ghifari,2023,4,L,21,Rendah,1,Part-time,Luar Kota,SMA Negeri,65.1,2.49,0.05,75,14.5,172,43.0,3,4,Tinggi,Aktif,1,Bimbingan Akademik
+G1A023036,Anis Syarifatul Mursyidah,2023,5,P,20,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,69.3,2.69,0.19,91,11.7,835,167.0,1,2,Sedang,Aktif,0,Monitoring Rutin
+G1A023037,Achmad Azza Alhaqi,2023,4,L,22,Rendah,1,Part-time,Dalam Kota,SMA Swasta,76.0,3.23,0.18,79,6.2,668,167.0,1,2,Sedang,Aktif,0,Monitoring Rutin
+G1A023038,Fassrah Putra Gunawan,2023,4,L,20,Menengah,0,Part-time,Luar Provinsi,SMA Negeri,70.0,2.75,0.2,91,3.5,608,152.0,2,1,Rendah,Aktif,1,Monitoring Rutin
+G1A023039,Reffki Andrea Pratama,2023,4,L,19,Menengah,1,Tidak Bekerja,Luar Kota,SMA Negeri,60.0,2.33,0.01,79,6.0,768,192.0,1,2,Sedang,Aktif,1,Bimbingan Akademik
+G1A023040,Fidia Dewi Wulandari Batu Bara,2023,4,P,19,Menengah,0,Part-time,Dalam Kota,SMA Swasta,75.7,3.0,0.29,88,4.7,532,133.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A023041,Muhammad Farhan Dzakki,2023,4,L,20,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,64.4,2.4,-0.02,83,3.9,744,186.0,0,2,Sedang,Aktif,1,Bimbingan Akademik
+G1A023042,Muhammad Jaka,2023,4,L,20,Rendah,1,Tidak Bekerja,Dalam Kota,SMA Negeri,79.7,3.19,0.03,89,3.6,776,194.0,1,2,Sedang,Aktif,0,Monitoring Rutin
+G1A023043,Aulia Dwi Rahmadani,2023,4,P,21,Rendah,1,Part-time,Luar Kota,SMA Negeri,65.8,2.4,0.08,60,15.2,84,21.0,2,4,Tinggi,Aktif,1,"Bimbingan Akademik, Konseling Motivasi"
+G1A023044,Primanda Nafissa Alfiansyah,2023,5,P,21,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,90.5,3.82,0.06,81,6.8,615,123.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A023045,Khayla Rahma Levina,2023,5,P,21,Rendah,0,Part-time,Dalam Kota,SMA Negeri,67.2,2.86,0.04,67,16.8,470,94.0,5,6,Tinggi,Aktif,1,"Bantuan Finansial, Konseling Motivasi"
+G1A023046,Reyhan Maulana Ibrahim,2023,5,L,20,Menengah,0,Tidak Bekerja,Luar Provinsi,SMA Negeri,71.8,2.86,0.37,98,2.9,625,125.0,0,1,Rendah,Aktif,0,Monitoring Rutin
+G1A023047,Habib Al Qodri,2023,5,L,22,Menengah,0,Tidak Bekerja,Dalam Kota,SMK,83.1,3.66,0.29,82,3.4,525,105.0,1,1,Rendah,Aktif,0,Monitoring Rutin
+G1A023048,Muhammad Aimar Apda Hadis,2023,5,L,22,Rendah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,62.7,1.92,-0.18,68,12.8,405,81.0,4,6,Tinggi,Dropout,1,"Bimbingan Akademik, Bantuan Finansial, Konseling Motivasi"
+G1A023049,Yohanes Adi Prasetya,2023,5,L,19,Tinggi,0,Tidak Bekerja,Dalam Kota,SMA Negeri,77.3,3.1,-0.07,94,8.0,615,123.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A023050,Fakhri Zuhdi Alfarros,2023,4,L,21,Tinggi,0,Part-time,Dalam Kota,SMK,88.1,3.56,-0.04,79,5.8,644,161.0,1,1,Rendah,Aktif,0,Monitoring Rutin
+G1A023051,Rayhan Muhammad Adha,2023,4,L,19,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,60.0,2.38,0.07,86,8.2,676,169.0,0,2,Sedang,Aktif,1,Bimbingan Akademik
+G1A023052,Anisa Julianti,2023,5,P,19,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,76.8,3.42,0.28,85,2.0,825,165.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A023053,Ghazi Al-Ghifari,2023,4,L,22,Rendah,1,Tidak Bekerja,Luar Kota,SMA Negeri,77.6,2.97,-0.15,88,6.3,376,94.0,0,2,Sedang,Aktif,0,Monitoring Rutin
+G1A023054,Yovanza Villareal,2023,4,L,19,Tinggi,0,Tidak Bekerja,Dalam Kota,SMA Negeri,82.8,3.54,0.07,93,10.0,652,163.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A023055,Rahman Firdaus Illahi,2023,4,P,20,Menengah,1,Part-time,Dalam Kota,SMA Negeri,62.6,2.62,-0.03,82,6.8,568,142.0,0,2,Sedang,Aktif,0,Monitoring Rutin
+G1A023056,Fathiyya Nafisah,2023,5,L,22,Rendah,1,Tidak Bekerja,Luar Kota,SMA Swasta,61.8,2.3,-0.24,76,15.7,195,39.0,5,4,Tinggi,Aktif,1,Bimbingan Akademik
+G1A023057,Ayu Dewanti Suci,2023,4,L,19,Menengah,1,Part-time,Luar Provinsi,SMK,80.2,3.1,-0.14,96,6.5,756,189.0,1,2,Sedang,Aktif,0,Monitoring Rutin
+G1A023058,Muhammad Sahlan Habibi,2023,5,L,21,Rendah,1,Part-time,Dalam Kota,SMA Negeri,78.0,2.71,0.1,85,10.4,610,122.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A023059,Relin Al Akbar,2023,5,L,21,Menengah,1,Part-time,Dalam Kota,SMA Negeri,77.5,3.35,-0.11,97,4.0,475,95.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A023060,Robi Septian Subhan,2023,4,L,22,Menengah,1,Tidak Bekerja,Luar Kota,SMA Negeri,78.5,3.4,0.3,79,7.5,540,135.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A023061,Ricardo Gellael,2023,5,L,20,Menengah,1,Part-time,Dalam Kota,SMA Swasta,68.2,2.83,0.05,82,6.1,845,169.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A023062,Abid Al Husain,2023,5,L,21,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Swasta,77.3,3.23,0.31,93,7.8,1000,200.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A023063,Billgram Melkisedek,2023,5,L,21,Tinggi,0,Tidak Bekerja,Dalam Kota,SMA Negeri,77.9,2.87,0.07,89,10.1,465,93.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A023064,Muhammad Ripal Rabbani,2023,4,L,22,Rendah,0,Part-time,Dalam Kota,SMA Swasta,67.9,2.45,-0.23,69,18.0,268,67.0,5,6,Tinggi,Aktif,1,"Bimbingan Akademik, Bantuan Finansial, Konseling Motivasi"
+G1A023065,Najwa Nabilah Wibisomo,2023,4,P,20,Rendah,1,Part-time,Dalam Kota,SMA Negeri,93.7,3.49,-0.1,82,11.3,624,156.0,0,2,Sedang,Aktif,0,Monitoring Rutin
+G1A023066,Revialdi Rifqi Ramadhan Permana,2023,5,L,22,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,79.7,3.46,0.02,97,7.3,755,151.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A023067,Dimas Arya Saputra,2023,4,L,19,Menengah,0,Part-time,Luar Kota,SMA Swasta,63.1,2.96,0.2,89,7.1,580,145.0,1,2,Sedang,Aktif,0,Monitoring Rutin
+G1A023068,Ricky Alfarisi,2023,5,L,19,Rendah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,81.6,3.07,-0.03,78,17.3,145,29.0,2,4,Tinggi,Dropout,1,Bantuan Finansial
+G1A023069,Muhammad Rafly Abdu Razzaq,2023,4,L,19,Rendah,1,Tidak Bekerja,Dalam Kota,SMA Swasta,65.3,2.12,-0.3,78,15.0,116,29.0,3,4,Tinggi,Aktif,1,Bimbingan Akademik
+G1A023070,Akhmat Qavidhufahmi,2023,4,L,21,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,82.9,3.36,0.11,82,5.0,772,193.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A023071,Merischa Theresia Hutauruk,2023,5,P,19,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Swasta,86.6,3.72,0.08,86,3.9,515,103.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A023072,Muhammad Dizi Valgiyos Aritonang,2023,4,L,22,Menengah,1,Part-time,Dalam Kota,SMA Negeri,66.8,2.83,-0.11,88,8.2,476,119.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A023073,Abim Bintang Audio,2023,4,P,21,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Swasta,84.6,3.53,0.02,93,7.5,408,102.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A023074,Rahma Hidayati Fitrah,2023,4,P,21,Tinggi,0,Tidak Bekerja,Dalam Kota,SMK,79.1,2.82,0.11,95,4.6,776,194.0,2,1,Rendah,Aktif,1,Monitoring Rutin
+G1A023075,Waridhania As Syifa,2023,5,P,20,Menengah,1,Part-time,Luar Kota,SMA Negeri,83.2,3.47,0.25,83,7.7,760,152.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A023076,Dinda Krisnauli Pakpahan,2023,4,P,22,Tinggi,1,Part-time,Dalam Kota,SMA Negeri,94.0,3.85,0.2,81,9.0,584,146.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A023077,I Nyoman Dimas Kresna Adryan,2023,5,L,21,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Swasta,72.5,3.12,0.27,82,6.4,545,109.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A023078,HANIF AL KAHFI,2023,5,L,20,Rendah,1,Tidak Bekerja,Luar Provinsi,SMA Swasta,67.5,2.27,-0.32,73,9.8,205,41.0,3,5,Tinggi,Aktif,1,"Bimbingan Akademik, Konseling Motivasi"
+G1A023079,Khaylilla Shafaraly Irnanda,2023,5,P,19,Tinggi,0,Part-time,Luar Provinsi,SMA Negeri,66.1,2.56,0.04,92,8.0,440,88.0,0,3,Sedang,Aktif,0,Monitoring Rutin
+G1A023080,Khalisa Rizgita Amanda,2023,5,P,22,Rendah,1,Tidak Bekerja,Luar Provinsi,SMA Swasta,66.8,2.41,0.1,79,16.1,375,75.0,5,5,Tinggi,Aktif,1,Bimbingan Akademik
+G1A023081,anggun Kartini,2023,4,P,22,Rendah,0,Part-time,Dalam Kota,SMA Swasta,74.2,2.76,-0.25,68,11.1,80,20.0,1,4,Tinggi,Aktif,1,"Bantuan Finansial, Konseling Motivasi"
+G1A023082,adani saputra,2023,4,L,19,Menengah,1,Part-time,Dalam Kota,SMA Negeri,78.4,3.2,0.12,95,9.8,564,141.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A023083,Ajis saputra hidayah,2023,5,L,22,Rendah,1,Tidak Bekerja,Luar Kota,SMA Swasta,77.8,3.08,0.07,83,5.9,805,161.0,0,2,Sedang,Aktif,0,Monitoring Rutin
+G1A023084,Cynthia Caroline,2023,4,P,20,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,83.3,3.52,-0.06,83,8.4,544,136.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A023085,Juan agraprana putra,2023,4,P,21,Rendah,0,Tidak Bekerja,Luar Kota,SMA Swasta,75.1,2.67,-0.3,55,16.8,112,28.0,1,4,Tinggi,Aktif,1,"Bantuan Finansial, Konseling Motivasi"
+G1A023086,Qonita Adzkiatul Mardiyah,2023,5,P,21,Tinggi,0,Tidak Bekerja,Dalam Kota,SMK,89.5,3.56,0.21,96,4.5,680,136.0,1,1,Rendah,Aktif,0,Monitoring Rutin
+G1A023087,Agyl Wendi Pratama,2023,5,L,20,Menengah,0,Tidak Bekerja,Luar Kota,SMA Swasta,72.4,2.65,0.17,86,4.5,455,91.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A023088,Migel Ray Sirait,2023,5,L,19,Menengah,1,Tidak Bekerja,Dalam Kota,SMA Swasta,95.0,3.71,-0.04,89,3.6,465,93.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A023089,Mohamad Irvan Ramadhansyah,2023,4,L,22,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,81.3,3.6,0.38,85,9.5,384,96.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A023090,Arrafi Andersont,2023,5,L,22,Tinggi,1,Tidak Bekerja,Luar Provinsi,SMA Swasta,66.4,2.28,-0.23,86,6.7,790,158.0,1,3,Sedang,Aktif,1,Bimbingan Akademik
+G1A023091,Hendro Paulus L,2023,5,L,20,Menengah,1,Part-time,Dalam Kota,SMK,64.3,2.26,-0.21,82,6.7,405,81.0,0,3,Sedang,Aktif,1,Bimbingan Akademik
+G1A023092,Mohammad Dimas Al Shiddiq,2023,5,L,22,Rendah,0,Tidak Bekerja,Luar Kota,SMA Negeri,79.8,2.77,-0.27,66,14.7,260,52.0,3,4,Tinggi,Dropout,1,"Bantuan Finansial, Konseling Motivasi"
+G1A023093,Muhammad Ryan Al Habsy,2023,5,L,20,Menengah,0,Tidak Bekerja,Luar Provinsi,SMA Negeri,72.8,3.03,0.27,97,7.7,940,188.0,0,1,Rendah,Aktif,0,Monitoring Rutin
+G1A023094,M. Ihtifanul Montaghib,2023,4,L,20,Rendah,1,Part-time,Luar Kota,SMA Swasta,82.1,3.62,0.16,85,8.6,800,200.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A024001,Ludvie Pradya Paramitha Susaningtias,2024,2,P,19,Rendah,1,Tidak Bekerja,Luar Provinsi,SMA Negeri,79.7,3.1,-0.06,90,5.1,222,111.0,2,3,Sedang,Aktif,1,Monitoring Rutin
+G1A024002,Ahsan Nurfauzi,2024,3,P,21,Menengah,1,Part-time,Dalam Kota,SMA Swasta,74.3,3.22,0.12,95,3.8,468,156.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024003,Aggra Kurnia Idhan,2024,3,L,20,Tinggi,0,Tidak Bekerja,Dalam Kota,SMA Negeri,66.5,2.49,-0.04,95,2.1,594,198.0,1,2,Sedang,Aktif,0,Bimbingan Akademik
+G1A024004,Azka Fathiya,2024,3,P,20,Rendah,1,Tidak Bekerja,Dalam Kota,SMA Negeri,60.0,2.15,-0.17,63,9.0,300,100.0,2,4,Tinggi,Aktif,1,"Bimbingan Akademik, Konseling Motivasi"
+G1A024005,Ahmad febri yan,2024,3,L,20,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,70.5,2.56,0.04,82,2.5,444,148.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024006,Muhammad Fadli Febriansyah Batubara,2024,2,L,18,Rendah,1,Tidak Bekerja,Dalam Kota,SMA Negeri,83.6,3.24,0.01,79,5.3,374,187.0,0,2,Sedang,Aktif,0,Monitoring Rutin
+G1A024007,M Iqbal Zafarullah,2024,2,L,20,Menengah,1,Tidak Bekerja,Dalam Kota,SMA Swasta,77.1,3.36,0.08,92,4.5,168,84.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024008,Muhammad Sulthon Dzaki,2024,3,L,18,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,62.5,2.52,0.13,84,5.6,258,86.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A024009,Muhammad Yusuf Arrayyan,2024,2,L,18,Rendah,1,Tidak Bekerja,Luar Kota,SMA Swasta,76.7,3.07,0.1,82,5.7,182,91.0,0,2,Sedang,Aktif,0,Monitoring Rutin
+G1A024010,Rafi Pratama,2024,2,L,21,Rendah,0,Part-time,Luar Provinsi,SMA Swasta,78.9,3.14,-0.06,80,15.7,128,64.0,4,5,Tinggi,Aktif,1,Bantuan Finansial
+G1A024011,Ariel Tiansyahrullah,2024,2,L,21,Menengah,1,Part-time,Luar Kota,SMA Negeri,66.2,2.55,-0.09,92,4.8,372,186.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A024012,Fadilla Rizky Ramadani,2024,2,L,18,Menengah,0,Part-time,Luar Kota,SMA Negeri,76.5,3.32,0.15,89,9.8,220,110.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024013,Nurmelizah,2024,2,P,21,Rendah,0,Part-time,Dalam Kota,SMA Negeri,75.6,2.64,-0.11,60,18.5,90,45.0,1,4,Tinggi,Aktif,1,"Bantuan Finansial, Konseling Motivasi"
+G1A024014,Shintia Bella,2024,2,P,18,Menengah,0,Part-time,Luar Kota,SMA Swasta,63.6,2.39,-0.06,84,8.6,396,198.0,0,2,Sedang,Aktif,1,Bimbingan Akademik
+G1A024015,Achmad Apanza,2024,3,L,18,Menengah,0,Part-time,Luar Provinsi,SMA Swasta,78.6,3.28,0.02,81,9.3,444,148.0,1,1,Rendah,Aktif,0,Monitoring Rutin
+G1A024016,Prycillia Edward,2024,2,P,19,Menengah,1,Tidak Bekerja,Dalam Kota,SMA Swasta,80.6,3.09,-0.02,91,10.8,202,101.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024017,Naifah Amanda Noveni,2024,3,P,20,Menengah,0,Tidak Bekerja,Luar Provinsi,SMK,85.8,3.77,0.04,95,4.1,534,178.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A024019,Tasya Triani,2024,3,P,20,Tinggi,0,Tidak Bekerja,Luar Kota,SMK,85.5,3.51,-0.07,78,9.7,600,200.0,2,1,Rendah,Aktif,1,Monitoring Rutin
+G1A024022,Tamara Vita Laila,2024,3,P,19,Rendah,1,Tidak Bekerja,Dalam Kota,SMK,61.2,2.11,-0.21,70,10.1,279,93.0,1,5,Tinggi,Aktif,1,"Bimbingan Akademik, Konseling Motivasi"
+G1A024023,Nurul Khalifah,2024,3,P,18,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Swasta,65.6,2.76,0.13,97,11.3,483,161.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A024024,Leksa alfiyora,2024,3,P,18,Rendah,1,Tidak Bekerja,Dalam Kota,SMA Negeri,80.2,3.02,0.02,87,9.9,294,98.0,0,2,Sedang,Aktif,0,Monitoring Rutin
+G1A024025,Muhammad Fikran Al Farizi,2024,3,L,18,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,80.1,3.27,-0.01,95,8.2,522,174.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A024026,Kevin Reyvano,2024,2,L,19,Rendah,0,Tidak Bekerja,Luar Provinsi,SMA Negeri,80.2,2.74,-0.19,66,15.4,152,76.0,5,5,Tinggi,Aktif,1,"Bantuan Finansial, Konseling Motivasi"
+G1A024027,Atikah Putri Utami,2024,2,P,19,Rendah,1,Part-time,Luar Provinsi,SMA Negeri,95.0,3.95,-0.1,81,5.1,280,140.0,0,3,Sedang,Aktif,0,Monitoring Rutin
+G1A024029,Aulia Afdhal Hafidzah,2024,3,P,19,Menengah,1,Tidak Bekerja,Luar Kota,SMA Negeri,80.7,3.58,0.22,86,3.7,348,116.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024030,Muhammad Alfariz,2024,3,L,18,Menengah,0,Tidak Bekerja,Luar Kota,SMA Swasta,86.4,3.62,0.05,94,11.8,276,92.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024031,Judika Ebenezer Sianturi,2024,3,L,18,Rendah,1,Tidak Bekerja,Luar Provinsi,SMA Negeri,84.5,3.1,0.0,94,4.8,261,87.0,2,3,Sedang,Aktif,1,Monitoring Rutin
+G1A024032,Faisal Ar Rahman,2024,3,P,21,Tinggi,0,Tidak Bekerja,Luar Kota,SMA Negeri,81.5,3.23,0.06,98,8.9,399,133.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024033,Aisyah Azzahrah,2024,2,P,21,Tinggi,0,Tidak Bekerja,Luar Kota,SMA Negeri,71.8,2.82,0.11,94,11.1,270,135.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024034,Muhammad Kadafi Naufala,2024,2,L,20,Rendah,1,Part-time,Dalam Kota,SMA Swasta,82.6,3.12,0.15,98,11.3,230,115.0,0,2,Sedang,Aktif,0,Monitoring Rutin
+G1A024037,Agief Vemas Afrivazah,2024,2,L,18,Rendah,1,Full-time,Luar Kota,SMA Swasta,67.3,1.9,0.02,74,13.6,134,67.0,2,7,Tinggi,Peringatan Akademik,1,"Bimbingan Akademik, Konseling Motivasi, Penyesuaian Jadwal"
+G1A024038,Andir Pradana Putra,2024,3,L,21,Rendah,1,Tidak Bekerja,Luar Kota,SMA Negeri,72.6,3.05,0.27,97,6.9,363,121.0,1,2,Sedang,Aktif,0,Monitoring Rutin
+G1A024039,Alfarian Adisaputra,2024,2,L,21,Menengah,1,Part-time,Dalam Kota,SMA Negeri,70.1,3.0,0.07,79,7.2,274,137.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024040,Hafiz Triandoza,2024,2,L,19,Menengah,0,Part-time,Luar Kota,SMA Negeri,75.8,2.95,-0.02,87,6.6,268,134.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024041,Ali Akbar Bermano,2024,2,L,19,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,95.0,3.98,-0.03,78,3.8,310,155.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A024042,Fikri Pangah Wijaya,2024,2,L,21,Rendah,1,Tidak Bekerja,Luar Kota,SMA Negeri,60.0,2.0,-0.12,78,17.5,170,85.0,5,4,Tinggi,Aktif,1,Bimbingan Akademik
+G1A024043,Farhan Khairullah,2024,3,L,21,Rendah,1,Tidak Bekerja,Luar Provinsi,SMK,81.9,3.19,-0.03,59,19.5,60,20.0,5,4,Tinggi,Aktif,1,Konseling Motivasi
+G1A024045,Nayla Viona Azahra,2024,2,P,21,Menengah,0,Part-time,Luar Kota,SMA Negeri,60.0,2.34,0.01,78,4.4,300,150.0,1,2,Sedang,Aktif,1,Bimbingan Akademik
+G1A024046,MUHAMMAD BINTANG PAMUNGKAS,2024,2,P,18,Rendah,1,Tidak Bekerja,Dalam Kota,SMA Negeri,70.3,2.63,-0.04,83,8.7,316,158.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A024047,Naufal Athallah Ihsan,2024,2,L,21,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,85.9,3.82,0.08,93,3.3,336,168.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024048,Thoriq Rohan,2024,3,L,21,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Swasta,75.6,3.39,0.27,97,10.5,339,113.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A024049,Muhammad Rifqi ruliansyah,2024,3,P,19,Menengah,0,Part-time,Luar Kota,SMA Swasta,64.2,2.62,-0.06,84,10.0,399,133.0,1,2,Sedang,Aktif,0,Monitoring Rutin
+G1A024050,Kano Marzuq Permata,2024,2,L,20,Rendah,0,Tidak Bekerja,Luar Kota,SMA Swasta,67.8,2.36,0.02,65,12.1,184,92.0,5,6,Tinggi,Aktif,1,"Bimbingan Akademik, Bantuan Finansial, Konseling Motivasi"
+G1A024052,Hatta Boehtiawan Saputra,2024,2,L,19,Rendah,1,Part-time,Luar Provinsi,SMA Swasta,81.8,3.26,0.01,91,11.3,174,87.0,2,3,Sedang,Aktif,1,Monitoring Rutin
+G1A024053,Anjelia Febiliyanti,2024,3,P,20,Menengah,1,Tidak Bekerja,Dalam Kota,SMK,67.7,2.78,0.1,83,7.7,387,129.0,0,3,Sedang,Aktif,0,Monitoring Rutin
+G1A024054,Dhimas Wira Pratama,2024,2,L,20,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,77.2,2.98,-0.08,81,5.7,168,84.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024055,Lovien Najla Dhafiyah,2024,2,P,21,Menengah,0,Part-time,Dalam Kota,SMA Negeri,75.5,3.13,0.0,81,10.2,400,200.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A024057,Muhammad Nathan Algibran,2024,2,L,19,Menengah,0,Part-time,Luar Kota,SMA Negeri,68.5,3.0,-0.1,79,3.0,356,178.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A024059,Widya Rustri Pratiwi,2024,3,P,18,Menengah,0,Part-time,Dalam Kota,SMA Negeri,95.0,3.53,-0.22,97,7.6,279,93.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024060,Mulan Putri Agnesia,2024,3,P,20,Rendah,0,Part-time,Luar Kota,SMA Negeri,81.3,3.17,-0.3,57,13.1,126,42.0,5,4,Tinggi,Aktif,1,"Bantuan Finansial, Konseling Motivasi"
+G1A024061,Arya Pratama,2024,3,L,20,Rendah,0,Part-time,Luar Kota,SMA Negeri,60.0,2.27,0.07,76,15.7,237,79.0,4,6,Tinggi,Aktif,1,"Bimbingan Akademik, Bantuan Finansial"
+G1A024062,Basman Wahyudi,2024,2,L,19,Tinggi,0,Part-time,Dalam Kota,SMA Swasta,76.9,3.29,-0.04,93,3.1,282,141.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024063,Ragil Kurniawan,2024,2,L,20,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Swasta,68.4,2.93,0.12,90,7.9,220,110.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A024064,Muhammad Faza Movic Khairullah,2024,2,L,19,Tinggi,0,Tidak Bekerja,Luar Provinsi,SMA Swasta,83.5,3.29,-0.04,80,9.4,342,171.0,2,1,Rendah,Aktif,1,Monitoring Rutin
+G1A024065,Rofid Fadhil,2024,3,L,18,Menengah,0,Tidak Bekerja,Luar Provinsi,SMA Negeri,67.1,2.34,0.13,80,4.2,291,97.0,2,3,Sedang,Aktif,1,Bimbingan Akademik
+G1A024066,Aika kautsar ustmut,2024,2,L,19,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,73.9,3.0,0.13,91,9.2,394,197.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024067,Angelita Rahmatun Annisa,2024,2,P,18,Menengah,0,Part-time,Luar Provinsi,SMA Negeri,80.0,3.24,0.13,87,10.7,220,110.0,1,1,Rendah,Aktif,0,Monitoring Rutin
+G1A024068,Revanny Princes Marthadilova,2024,3,P,20,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,83.7,3.23,-0.03,82,3.3,267,89.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A024069,Tri Haiji Januarli,2024,2,L,19,Menengah,0,Tidak Bekerja,Luar Provinsi,SMA Negeri,63.0,2.45,0.04,83,6.5,268,134.0,2,3,Sedang,Aktif,1,Bimbingan Akademik
+G1A024070,Hafiz Achmad Zafar,2024,3,L,21,Menengah,1,Tidak Bekerja,Luar Kota,SMA Swasta,71.7,2.83,0.2,89,3.1,423,141.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A024071,Algedian Syahtria Wangsa,2024,2,P,19,Menengah,0,Part-time,Luar Kota,SMA Negeri,70.3,2.84,-0.03,80,8.8,298,149.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A024073,Abid Abdussalam,2024,3,L,18,Tinggi,0,Tidak Bekerja,Luar Kota,SMK,68.5,2.82,0.09,97,9.5,519,173.0,2,3,Sedang,Aktif,1,Monitoring Rutin
+G1A024074,Elsha Dwi Yanthi Sianipar,2024,3,P,18,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,92.7,3.65,-0.05,97,4.8,567,189.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024075,R. Noor Fikhri,2024,2,L,18,Menengah,0,Part-time,Luar Kota,SMA Negeri,79.0,3.04,-0.07,79,5.4,180,90.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024076,Al - Hadi Nata,2024,2,L,21,Menengah,0,Tidak Bekerja,Luar Kota,SMA Swasta,62.4,2.35,-0.14,81,2.5,278,139.0,1,2,Sedang,Aktif,1,Bimbingan Akademik
+G1A024077,Muhammad Abel Cakrawangsa,2024,3,L,20,Menengah,0,Part-time,Dalam Kota,SMA Swasta,84.2,3.29,0.08,88,11.6,501,167.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024078,Muhammad Dovy Alfaruk,2024,2,L,20,Tinggi,0,Part-time,Luar Provinsi,SMA Negeri,95.0,3.68,0.13,96,9.7,292,146.0,1,1,Rendah,Aktif,0,Monitoring Rutin
+G1A024079,Yudhistira Rizky Ramadhan,2024,2,L,20,Menengah,0,Part-time,Dalam Kota,SMA Negeri,85.3,3.16,-0.07,78,8.2,174,87.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A024080,Nania Putri Pratami,2024,2,P,18,Menengah,1,Part-time,Dalam Kota,SMA Swasta,60.0,2.78,0.16,86,4.9,328,164.0,0,2,Sedang,Aktif,0,Monitoring Rutin
+G1A024081,Gusti Revalion Putrada,2024,3,L,20,Menengah,0,Part-time,Luar Kota,SMA Negeri,70.2,2.88,0.03,83,6.4,426,142.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024082,Afifah Chairunnisya,2024,3,P,19,Menengah,1,Tidak Bekerja,Dalam Kota,SMA Swasta,87.7,3.22,-0.04,78,11.0,297,99.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A024083,Ikhsan Rihan Farli,2024,2,L,18,Menengah,0,Part-time,Luar Provinsi,SMA Swasta,67.9,2.95,0.16,80,7.4,160,80.0,1,3,Sedang,Aktif,0,Monitoring Rutin
+G1A024084,Dwi Juliani,2024,3,P,18,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,79.4,3.38,-0.02,87,8.5,306,102.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A024085,M. ARRFIQI YOGA DINANTI,2024,2,L,21,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Swasta,82.7,3.38,-0.11,78,9.2,310,155.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024086,Rusydi Muhammad akmal,2024,3,L,21,Rendah,1,Tidak Bekerja,Luar Kota,SMA Swasta,65.7,2.52,-0.09,76,14.3,264,88.0,2,4,Tinggi,Aktif,1,Monitoring Rutin
+G1A024087,IVAN DER GHIFRA,2024,2,L,18,Rendah,1,Part-time,Luar Kota,SMK,74.4,2.88,-0.13,81,6.6,202,101.0,2,3,Sedang,Aktif,1,Monitoring Rutin
+G1A024088,FAITH FAQIH AL HIKAM,2024,2,L,18,Rendah,1,Tidak Bekerja,Dalam Kota,SMA Negeri,60.0,2.46,-0.12,72,9.6,94,47.0,1,4,Tinggi,Aktif,1,"Bimbingan Akademik, Konseling Motivasi"
+G1A024089,Abil Islami Marvi,2024,3,L,18,Rendah,1,Tidak Bekerja,Luar Kota,SMA Swasta,64.8,2.55,0.09,70,9.0,60,20.0,2,4,Tinggi,Aktif,1,Konseling Motivasi
+G1A024090,Lia Uswatun Gholiyah,2024,3,P,21,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,72.5,2.76,0.02,97,11.5,480,160.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024091,Achmad Rifky Akbar,2024,3,L,21,Rendah,1,Tidak Bekerja,Luar Kota,SMA Negeri,62.5,2.5,-0.06,80,9.8,240,80.0,4,4,Tinggi,Aktif,1,Monitoring Rutin
+G1A024093,Farhan Muhammad Rizki,2024,2,L,18,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Swasta,91.3,3.76,0.11,78,6.9,188,94.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024094,Ifana Dwi Prayoga,2024,2,P,21,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,60.7,2.56,0.13,90,10.9,178,89.0,1,2,Sedang,Aktif,0,Monitoring Rutin
+G1A024095,Fathan Rizqi Thirafi,2024,3,L,18,Tinggi,0,Part-time,Luar Kota,SMA Negeri,70.6,2.82,0.07,79,4.8,282,94.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024096,Ayuni Salsyabilla Putri,2024,3,P,21,Rendah,1,Part-time,Luar Kota,SMA Swasta,76.3,3.03,0.21,84,7.9,561,187.0,1,2,Sedang,Aktif,0,Monitoring Rutin
+G1A024097,Pandu Pratama Putra,2024,3,L,18,Menengah,0,Tidak Bekerja,Dalam Kota,SMA Swasta,89.4,3.82,0.11,93,9.3,432,144.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024098,Daffa Dzaki Irawan,2024,3,L,21,Menengah,0,Part-time,Luar Kota,SMA Negeri,60.6,2.43,0.1,80,2.2,495,165.0,1,2,Sedang,Aktif,1,Bimbingan Akademik
+G1A024099,Okta Kurnia Ariansyah,2024,2,L,21,Tinggi,0,Tidak Bekerja,Luar Kota,SMA Swasta,86.6,3.67,-0.02,98,2.0,320,160.0,0,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024100,Naufal Rizqullah ramadhan,2024,3,L,20,Menengah,0,Part-time,Luar Kota,SMA Swasta,75.1,3.08,0.2,89,10.9,282,94.0,1,0,Rendah,Aktif,0,Monitoring Rutin
+G1A024101,Alfi wiradinata,2024,3,L,21,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,65.2,2.66,-0.03,96,10.7,507,169.0,0,2,Sedang,Aktif,0,Monitoring Rutin
+G1A024102,M Akbar Rizkal,2024,2,L,20,Menengah,0,Part-time,Dalam Kota,SMA Negeri,79.6,3.1,-0.06,95,11.0,274,137.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A024103,Muhammad Nabil Fitterzon,2024,3,L,18,Rendah,0,Tidak Bekerja,Dalam Kota,SMA Negeri,77.0,2.33,-0.23,55,11.5,267,89.0,2,4,Tinggi,Aktif,1,"Bimbingan Akademik, Bantuan Finansial, Konseling Motivasi"
+G1A024104,NAILA MERITA PUTRI,2024,3,P,21,Menengah,1,Tidak Bekerja,Dalam Kota,SMA Swasta,69.0,3.02,0.18,94,10.4,408,136.0,1,2,Sedang,Aktif,0,Monitoring Rutin
+G1A024105,LANTERA MEUNASAH,2024,3,L,19,Tinggi,0,Part-time,Dalam Kota,SMA Negeri,75.7,3.03,0.04,95,4.9,306,102.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A024106,Zainal Jefry,2024,2,L,19,Rendah,1,Tidak Bekerja,Dalam Kota,SMA Negeri,71.1,2.68,-0.03,95,11.8,296,148.0,1,2,Sedang,Aktif,0,Monitoring Rutin
+G1A024107,HABIBY IRAWAN HALIM,2024,2,L,18,Menengah,0,Tidak Bekerja,Luar Kota,SMA Negeri,76.1,2.94,-0.01,93,11.0,400,200.0,2,0,Rendah,Aktif,1,Monitoring Rutin
+G1A024108,Muhammad ihsan,2024,2,L,21,Rendah,1,Tidak Bekerja,Dalam Kota,SMA Swasta,81.6,3.01,-0.04,97,8.4,308,154.0,2,2,Sedang,Aktif,1,Monitoring Rutin
+G1A024109,M.Arif Rahman Hakim,2024,2,P,20,Rendah,1,Part-time,Luar Kota,SMK,90.9,3.36,-0.02,89,6.0,342,171.0,1,3,Sedang,Aktif,0,Monitoring Rutin
+G1A024110,ADIVA LUTHFIYYAH YULIAN,2024,3,P,21,Menengah,0,Tidak Bekerja,Luar Provinsi,SMK,62.6,2.69,0.16,68,16.7,219,73.0,2,4,Tinggi,Aktif,1,Konseling Motivasi
+G1A024111,Khairi Makruf Fathorikan,2024,2,L,19,Rendah,1,Part-time,Luar Provinsi,SMA Negeri,95.0,3.28,0.01,96,9.6,194,97.0,0,3,Sedang,Aktif,0,Monitoring Rutin
