@@ -37,7 +37,7 @@
 ## Overview Sistem
 
 ### Cerita Sistem
-Dr. Ahmad, Ketua Program Studi Teknik Informatika, sering kali merasa cemas melihat mahasiswa berprestasi tiba-tiba mengalami penurunan akademik drastis. "Seandainya ada sistem yang bisa memperingatkan sejak dini sebelum mahasiswa benar-benar dropout," pikirnya sambil melihat data 285 mahasiswa TI di mana 150 mahasiswa (52.6%) teridentifikasi berisiko dropout.
+Program studi informatika mendapatkan sebuah tantangan dari rektor akademik, yang dimana seorang rektor ini merasa cemas melihat mahasiswa berprestasi tiba-tiba mengalami penurunan akademik drastis. "Seandainya ada sistem yang bisa memperingatkan sejak dini sebelum mahasiswa benar-benar dropout," program studi informatika berpikir sambil melihat data 285 mahasiswa TI di mana 150 mahasiswa (52.6%) teridentifikasi berisiko dropout.
 
 Maka lahirlah sistem prediksi dropout berbasis machine learning ini. Dengan menganalisis 22 variabel komprehensif mulai dari demografi, performa akademik, pola kehadiran, hingga aktivitas digital learning, sistem dapat memberikan early warning dengan akurasi 100% menggunakan Random Forest.
 
@@ -423,7 +423,7 @@ UAS_DATA_MINING/
 │   └── fitur_model.pkl               # Feature list for consistency
 │
 └── Dashboard_Implementation/           # Production deployment
-
+```
 
 ---
 
@@ -601,7 +601,7 @@ def batch_predict_dropout(csv_file_path):
 ### **1. Dashboard Interaktif untuk Rektorat**
 
 **Cerita Visi Dashboard:**
-Rektor dapat memonitor kondisi 285 mahasiswa TI dalam satu layar dashboard komprehensif. Visualisasi real-time menampilkan tren dropout, distribusi risiko per angkatan, dan efektivitas program intervensi yang sedang berjalan.
+Rektor dapat memonitor kondisi seluruh mahasiswa dalam satu layar dashboard komprehensif. Visualisasi real-time menampilkan tren dropout, distribusi risiko per angkatan, dan efektivitas program intervensi yang sedang berjalan.
 
 **Konsep Fitur Dashboard:**
 - **Executive Summary**: KPI utama seperti total mahasiswa berisiko, tingkat retensi, dan ROI program intervensi
